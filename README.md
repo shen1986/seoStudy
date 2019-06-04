@@ -71,7 +71,20 @@
     + seo贵在坚持。只要坚持就会有好的seo，没有最好的seo，只有会坚持的seo
     + 长时间不更新网站内容，百度蜘蛛会把你的权重降低
     + 外链一直没有更新，权重会降低
+    + 文章一定要原创，原创的文章在在蜘蛛面前的权重是高的
+        * 最好自己写，用心去写的文章最好
+        * 没时间自己写怎么办？ qq空间 百度不收录， 去那上面找点文章，确认百度搜索不到，那就是原创文章。
+        * 小技巧，通过谷歌翻译 中 -> 英 -> 法 -> 英 -> 中 转出来的文章就是原创文章。
+        * 通过原创工具。 这种工具不能多用，用多了百度掌握了你的规律就会被k，这种工具，一般首尾是一些原创的文章。中间都是复制别人的文章。
     + 如果网站中有死链（404直接报错页面），这个是最忌讳的，百度蜘蛛非常讨厌死链
         * 一般死链不是有意造成的，但是这却是非常损害SEO的。
         * 有很多死链的检测工具。要经常去检查自己网站里面有没有死链。
         * 另一方面，如果被访问到了不存在的页面，请做一个友好的提示页面，告诉客人这个地址不存在。这种404页面是对蜘蛛非常友好的。直接页面报错。那是不行的。
+
+- 标题的技巧
+    + 标题权重最高，所以选择一个好的标题，能够提高SEO。一个好的SEO专员，写标题的水平是非常高的。
+        * 标题里面一定要带上这篇文章的关键字。且数量越多越好。
+        * 活用'_'线，下划线在百度搜索引擎里面代表的是空格的意思。[例子](https://s.click.taobao.com/t_js?tu=https%3A%2F%2Fs.click.taobao.com%2Ft%3Fe%3Dm%253D2%2526s%253DNqG%252BGWc3kgMcQipKwQzePCperVdZeJvipRe%252F8jaAHciLme4nz7IQD1fR9eU53KZjRXndaNoL%252Fi77%252Bk46yyCXGms78VMtZKGCwgYyL7kprHnpkRjRUiy0is7ngtD9XDUvwqm2bRwd2NglR8OvOOJruytM%252Fxbc3vHC%252F1nE3FcL0oNzN%252BM0rV8OG4Vs0R5ySxkaSjfJaTmZ4hpMXUjeJBoecFkSxgN1BAymIRQfXu1HuULKNxY13XPtWqgZkibVXDdFcSpj5qSCmbA%253D%26clk1%3D432cf8b5c51763fb4c21457904ced09e%26upsid%3D432cf8b5c51763fb4c21457904ced09e%26ref%3Dhttps%253A%252F%252Fwww.baidu.com%252Fbaidu.php%253Fsc.K00000KbUiqGbb95a2Zxore9BlvipeBSWx-K8XIu8zx61poYQjlpd_r3JohFdLEfw5oe65NP1fZqP-G6u10t8bYDSqY3hBJCpkktcTJMsaYCvpntZQAyvWSCqCuVHRDOBdNl0kLhT6HkipIggQAyBNGCscE9cBylmED81dRZa7eXwNMoP4ndY_loB1doyOKRiL7gd5su3j8cYj8jw0.7D_iHF8xnhA94wEYL_SNK-deQbfHgI3ynDgg6msw5I7AMHdey5A7MXh1uvyUqMWujjIdk_pI5QblXMWbzUVMQkLyI-XHFzeEZ_ovX5ZIdEmWOgePNZqj4X1qxS1ExODOxl5ouDMoAkdd_NR2A5jkq8ZFqTrHlkSRP7t5U4RAgg_8w9zxy993ONrZWtVrZF83OQF9zU_MHZ9zU85zOQe5dnrHIbqxd5v3X5UJOBfOMxWOtZKSx9HSU3TpuES2eSfMOpS9S5OyMjbLu5o_z_SLqS7Olq2XzQ9txESx4NlOqXq5S183OSjSw-OdOta24MtoEd3TheFqgS5W9zU_MovqMHCYxjOs5dPnxW_O3E3-jSwO35d593PgOmYxotXLZPSO7WexqXgOgO_EYy5WtTdj4UOSKtEqMlrjvpT-OSE68zx-dRxqX1SWqZqZSWOVHmP7jSF9zU_MdlQ3X5YxEOj9zU_MdoBtS5d9OgmetEjSgjbLu5gSFuPOkU5l5lMuOkwvxlqvWtXWVuOZQoOvhxYP5tW_JkOk5SKO_4ROegJ4n5dexklPg4pOgvlP5LOdOMdOtjKgSO6OvxdOSjtEwOv2S5O0OPfOUqhoSwvEEO3ESKtoEojSr5Q8qM3OjGEq8ZF83OFi_nYQAHW_lx7f.U1Y10ZDqzVpeS6KspynqnfKY5Toy8OC0pyYqnWcd0ATqUvNsT100Iybqmh7GuZR0TA-b5Hc0mv-b5HfsPsKVIjYknH0zn-tknjDLg1DsnH-xn1msnfKopHYk0ZFY5HDvn6K-pyfqnHfzrNtznH04P-tzrH0Lndtznjm4r7tzrjRkrNtzrH04r7tzrj61n-tzrjR3PNtzPWndn7tzrHD1ndtznWDdr0KBpHYznjwxnHR3g1DdPfKVm1Yzn7t3nHfLrHbLPWwxnH0snNts0Z7spyfqn0Kkmv-b5H00ThIYm%26et%3DdbWuoknoXTjAmUnZV%252Bbpiw8VlSE3lNom)
+        * 从上面的例子你可以发现这个标题里面有非常多的关键字。`手机` `华为` `天猫手机馆` `手机 华为` `华为 手机` `天猫手机馆 手机` 等等，可能有十几个吧。最后一个'_'的后面`购机更优惠！`才是真正的广告语。可见下划线作用很重要。
+        * '-'没有转换成空格的功能，所以千万不要搞错。
+    + 新站的标题一旦定了，就不要去改了，新站改标题，会被降权1~2个月，短时间是回不到百度里面的。谷歌只会降权1~2天。
