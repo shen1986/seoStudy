@@ -34,7 +34,7 @@
             1. 包含一些不希望被百度收录的内容
             2. 页面内容比较老旧不希望被客户看到
             3. 牵涉到一些机密内容的页面
-    + [详细参照]https://baijiahao.baidu.com/s?id=1608195834529884631&wfr=spider&for=pc
+    + [详细参照](https://baijiahao.baidu.com/s?id=1608195834529884631&wfr=spider&for=pc)
     + 淘宝网站设置了它内部所有的内容都不希望被百度收录
 
 ## 相关网站
